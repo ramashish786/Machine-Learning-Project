@@ -36,7 +36,7 @@ features that they may be interested in. These features can increase the engagem
 data. Furthermore, product-related data is more indicative of what new features we should be creating as a company.
 
 
-Description of each Columns
+Description of each Columns <br>
 userid - MongoDB userid <br>
 churn  - Active = No | Suspended < 30 = No Else Churn = Yes<br>
 age - age of the customer<br>
