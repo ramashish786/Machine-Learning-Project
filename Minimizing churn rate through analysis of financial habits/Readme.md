@@ -37,26 +37,26 @@ data. Furthermore, product-related data is more indicative of what new features 
 
 
 Description of each Columns
-userid - MongoDB userid
+userid - MongoDB userid <br>
 churn  - Active = No | Suspended < 30 = No Else Churn = Yes
 age - age of the customer
-city - city of the customer
+city - city of the customer  
 state- state where the customer lives
 postal_code - zip code of the customer
 zodiac_sign- zodiac sign of the customer
-rent_or_own - Does the customer rents or owns a house 
+rent_or_own - Does the customer rents or owns a house  
 more_than_one_mobile_device - does the customer use more than one mobile device
 payFreq- Pay Frequency of the cusomter
 in_collections - is the customer in collections
-loan_pending - is the loan pending
+loan_pending - is the loan pending  
 withdrawn_application - has the customer withdrawn the loan applicaiton 
 paid_off_loan- has the customer paid of the loan
 did_not_accept_funding - customer did not accept funding
-cash_back_engagement - Sum of cash back dollars received by a customer / No of days in the app
+cash_back_engagement - Sum of cash back dollars received by a customer / No of days in the app 
 cash_back_amount - Sum of cash back dollars received by a customer
 used_ios- Has the user used an iphone
 used_android - Has the user used a android based phone
-has_used_mobile_and_web - Has the user used mobile and web platforms
+has_used_mobile_and_web - Has the user used mobile and web platforms 
 has_used_web - Has the user used MoneyLion Web app
 has_used_mobile - as the user used MoneyLion  app
 has_reffered- Has the user referred
