@@ -1,2 +1,2 @@
 ### Hello There !!!!!
-#### Here you all the machine learning done by me.
+#### Here you will find all the machine learning projects done by me.
