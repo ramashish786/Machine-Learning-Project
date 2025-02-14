@@ -55,3 +55,18 @@ risk factors.
 Furthermore, the marketplace itself provides us with their own lead quality scores. We will leverage both sets
 of scores, as well as small list of personal/financial features to predict if the user is likely to respond to our
 current onboarding process.
+
+## CONCLUSION
+
+* Our model has given us an accuracy of around 64%. With this, we have an algorithm that can help
+predict whether or not a user will complete the E-signing step of the loan application. One way to
+leverage this model is to target those predicted to not reach the e-sign phase with customized
+onboarding. This means that when a lead arrives from the marketplace, they may receive a different
+onboarding experience based on how likely they are to finish the general onboarding process. This can
+help our company minimize how many people drop off from the funnel. This funnel of screens is as
+effective as we, as a company, build it. Therefore, user drop-off in this funnel falls entirely on our
+shoulders. So, with new onboarding screens built intentionally to lead users to finalize the loan
+application, we can attempt to get more than 40% of those predicted to not finish the process to
+complete the e-sign step. If we can do this, then we can drastically increase profits. Many lending
+companies provide hundreds of loans every day, gaining money for each one. As a resuit, if we can
+increase the number of loan takers, we are increasing profits. All with a simple model!
