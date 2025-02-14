@@ -16,3 +16,30 @@ marketplace.
 
 * Goal: Develop an model to predict for 'quality' applicants. In this case study, 'quality' applicants are those
 who reach a key part of the loan application process.
+
+## BUSINESS CHALLENGE
+
+* In this Case Study we will be working for a fintech company that specializes on loans. It offers low APR loans
+to applicants based on their financial habits, as almost all lending companies do. This company has partnered with a
+P2P lending marketplace that provides real-time leads (loan applicants). The numbers of conversions from these
+leads are satisfactory.
+
+* The company tasks you with creating a model that predicts whether or not these leads will complete the
+electronic signature phase of the loan application (a.k.a.e_signed). The company seeks to leverage this model to
+identify less 'quality' applicants (e.g. those who are not responding to the onboarding process), and experiment
+with giving them different onboarding screens.
+
+
+* The reason for selecting the e_signing process as the response variable is due to the structure of the loan
+application.
+
+* The official application begins with the lead arriving into our website after we opted to acquire it. Here, the applicant
+begins the onboarding process to apply for a loan. The user begins to provide more financial information by going over
+every screen of the onboarding process. This first phase ends with the applicant providing his/her signature indicating all of
+the given information is correct.
+
+* Any of the following screens, in which the applicant is approved/denied and given the terms of the loan, is
+dependent on the company, not the applicant. Therefore the effectiveness of the onboarding is measured up to the
+moment the applicant stops having control of the application
+process.
+------
