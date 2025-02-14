@@ -43,3 +43,15 @@ dependent on the company, not the applicant. Therefore the effectiveness of the 
 moment the applicant stops having control of the application
 process.
 ------
+
+## DATA
+
+* Because the applicants arrived through a marketplace, we have access to their financial data before the
+onboarding process begins. This data includes personal information like age, and time employed, as well as other
+financial metrics. Our company utilizes these financial data points to create risk scores based on many different
+risk factors.
+
+* In this case study, we are given the set of scores from algorithms built by the finance and engineering teams.
+Furthermore, the marketplace itself provides us with their own lead quality scores. We will leverage both sets
+of scores, as well as small list of personal/financial features to predict if the user is likely to respond to our
+current onboarding process.
