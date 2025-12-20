@@ -8,7 +8,7 @@ python -m venv .venv
 .venv\Scripts\activate.bat
 
 for conda 
-conda create .venv
+conda create -n .venv
 conda activate .venv
 
 install following library 
