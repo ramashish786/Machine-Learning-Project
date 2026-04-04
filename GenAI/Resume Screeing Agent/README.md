@@ -194,5 +194,7 @@ Weights are adjustable in the sidebar at runtime.
 - Very long resumes (>15 pages) may need larger chunk sizes
 - Parallel scoring within a single agent run is sequential in POC (LangGraph `Send` API for true parallelism is the production upgrade)
 
-## Video Of UI
-<video controls src="recording/recording.mp4" title="Title"></video>
+## Snaps Of UI
+![alt text](image.png)
+![alt text](image-2.png)
+![alt text](image-1.png)
